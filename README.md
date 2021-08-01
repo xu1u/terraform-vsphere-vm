@@ -142,6 +142,7 @@ To contribute, please read the [contribution guidelines](https://github.com/Terr
 ## Authors
 
 Originally created by [Arman Keyoumarsi](https://github.com/Arman-Keyoumarsi)
+Adopted for customisation by [Shaka Ondere](https://github.com/xu1u)
 
 ## License
 
